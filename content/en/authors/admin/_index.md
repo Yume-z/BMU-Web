@@ -35,6 +35,19 @@ education:
       institution: Tsinghua University
       year: 
 
+experience:
+  courses:
+    - course: Assistant professor/PI
+      institution: School of Information Science and Technology, ShanghaiTech University, Shanghai, China
+      year: Mar 2018 - present
+    - course: Research associate
+      institution: Department of surgery, University of Alberta Glenrose Rehabilitation Hospital, Alberta Health Services, Canada
+      year: May 2013–Jul 2017
+    - course: Postdoctoral fellow
+      institution: Laboratory of Mechanics and Acoustics–CNRS, France
+      year: May 2012 – Apr 2013
+
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,7 +75,7 @@ social:
 email: 'zhengrui@shanghaitech.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: True
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,4 +88,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 郑锐，研究员、助理教授，目前担任信息学院智能医学信息研究中心主任。
 
-郑锐本科、硕士毕业于清华大学工程物理系，博士毕业于加拿大阿尔伯塔大学物理系和生物医学工程系，博士后就职于法国国家科学研究中心力学与声学研究所（Laboratory of Mechanics and Acoustics–CNRS），曾在加拿大阿尔伯塔大学医学院外科学系及阿尔伯塔省医疗卫生局附属Glenrose康复医院任职助理研究员。2018年3月加入上海科技大学信息科学与技术学院，目前主要研究方向包括生物医学超声图像及信号处理、基于深度学习的医学超声成像及诊断、多模态超声成像理论及应用、智能化医学三维超声成像、便携式超声成像系统研发、肌骨系统三维超声成像技术等。郑锐研究员在肌骨超声检测、脊柱病变成像及诊断领域已发表SCI检索论文40多篇，并承担主持了自然科学基金面上项目、上海市自然科学基金等科研项目。
+本科、硕士毕业于清华大学工程物理系，博士毕业于加拿大阿尔伯塔大学物理系和生物医学工程系，博士后就职于法国国家科学研究中心力学与声学研究所（Laboratory of Mechanics and Acoustics–CNRS），曾在加拿大阿尔伯塔大学医学院外科学系及阿尔伯塔省医疗卫生局附属Glenrose康复医院任职助理研究员。2018年3月加入上海科技大学信息科学与技术学院，目前主要研究方向包括生物医学超声图像及信号处理、基于深度学习的医学超声成像及诊断、多模态超声成像理论及应用、智能化医学三维超声成像、便携式超声成像系统研发、肌骨系统三维超声成像技术等。郑锐研究员在肌骨超声检测、脊柱病变成像及诊断领域已发表SCI检索论文40多篇，并承担主持了自然科学基金面上项目、上海市自然科学基金等科研项目。
