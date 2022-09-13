@@ -9,9 +9,9 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 5000
 
 content:
   slides:
@@ -24,18 +24,10 @@ content:
         brightness: 0.7
         media: bmu.jpg
       link:
-        icon: graduation-cap
+        icon: microscope
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
-    - title: ShanghaiTech ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 1.0
-        media: 5.jpg
+        text: Learn about our research topics
+        url: ../publication/
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -44,8 +36,13 @@ content:
         color: '#555'
         brightness: 0.7
         media: 2.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+      link:
+        # icon: microscope
+        # icon_pack: fas
+        text: 😉 Meet our members
+        url: ../publication/
+    - title: World-Class Medical Ultrasound Lab
+      content: 'Graduate and Undergraduate Student Openings!'
       align: right
       background:
         position: center

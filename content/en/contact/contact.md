@@ -15,8 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhengrui@shanghaitech.edu.cn
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -31,7 +30,6 @@ content:
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -55,3 +53,7 @@ design:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+
+If you’re interested in our lab’s research, feel free to sign up for our lab’s email list in which we send regular updates about our research meetings. You are very welcome to join in for these!
+
+You can also reach out and send us an email via gerstenberg@stanford.edu. We’re looking forward to hearing from you!
