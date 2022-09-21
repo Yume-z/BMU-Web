@@ -13,7 +13,7 @@ subtitle = "<b>Biomedical Ultrasound Lab</b>"
 
 [design.background]
   # Background image.
-  image = "BMU.png"  # Name of image in `assets/media/`.
+  image = ""  # Name of image in `assets/media/`.
   image_darken = 1.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "bottom"  # Options include `left`, `center` (default), or `right`.
