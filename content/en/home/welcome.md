@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "<b>BMU Lab</b>"
-subtitle = "<b>Biomedical Ultrasound Lab</b>"
+subtitle = "<b> Who We Are & What We Do</b>"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

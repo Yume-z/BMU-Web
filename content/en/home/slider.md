@@ -30,7 +30,7 @@ content:
         text: Learn about our research topics
         url: research
 
-    - title: Lunch & Learn ☕️
+    - title: Simple And Harmonious Lab Atmosphere☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
