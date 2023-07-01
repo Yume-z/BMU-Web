@@ -31,4 +31,4 @@ advanced:
 
 {{< gallery album="album">}} 
 
-{{< video src="DJI_0125.mp4" controls="yes" >}}
+<!-- {{< video src="DJI_0125.mp4" controls="yes" >}} -->
