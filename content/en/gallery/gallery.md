@@ -28,7 +28,4 @@ advanced:
 <br>
 
 
-
 {{< gallery album="album">}} 
-
-<!-- {{< video src="DJI_0125.mp4" controls="yes" >}} -->
