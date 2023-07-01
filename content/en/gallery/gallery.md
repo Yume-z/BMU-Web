@@ -29,3 +29,5 @@ advanced:
 
 
 {{< gallery album="album">}} 
+
+{{< vimeo 841471386 >}}

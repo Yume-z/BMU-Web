@@ -28,7 +28,7 @@ summary: 3-D ultrasound (US) image reconstruction, fast dot-projection (FDP),mul
 
 tags:
   - 
-featured: false
+featured: true
 
 # links:
 # - name: ""
