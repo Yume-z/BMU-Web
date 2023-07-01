@@ -1,38 +1,34 @@
-+++
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-title = "<b>BMU Lab</b>"
-subtitle = "<b> Who We Are & What We Do</b>"
+# Activate this widget? true/false
+active: true
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+# This file represents a page section.
+headless: true
 
-[design.background]
-  # Background image.
-  image = ""  # Name of image in `assets/media/`.
-  image_darken = 1.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "bottom"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
-  # Text color (true=light or false=dark).
-  text_color_light = false
+# Order that this section appears on the page.
+weight: 10
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "0", "200px", "0"]
+title : BMU Lab
+subtitle : Who We Are & What We Do
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+design:
+  columns: '2'
+  background:
+    image: 
+    image_darken: 1.0
+    image_parallax: true
+    image_position: bottom
+    image_size: contain
+    text_color_light: false
+  spacing:
+    padding: ['200px', '0', '200px', '0']
+advanced:
+  css_class: fullscreen
+---
 <br>
 
 # Welcome to BMU LAB.

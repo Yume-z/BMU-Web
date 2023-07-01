@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.shanghaitech.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI 3D ultrasound imaging, Biomedical ultrasound image and signal processing, Medical ultrasound imaging and diagnosis based on deep learning, Multi-modality ultrasound imaging algorithm and application and Development of portable ultrasound imaging system.
 
 interests:
   - AI 3D ultrasound imaging 
@@ -59,9 +59,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=cIOZ_cQAAAAJ
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?hl=zh-CN&user=cIOZ_cQAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -75,7 +75,7 @@ social:
 email: 'zhengrui@shanghaitech.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: True
+# highlight_name: True
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
