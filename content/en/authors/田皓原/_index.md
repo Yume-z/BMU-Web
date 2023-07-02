@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 张伟
+title: 田皓原
 
 # Username (this should match the folder name)
 authors:
-  - 张伟
+  - 田皓原
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student
+role: Undergraduate Students
 
 # Organizations/Affiliations
 organizations:
@@ -21,17 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Deep learning for Ultrasound
-  - Multi-view 3D Ultrasound Reconstruction
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: MEng in Computer Science
-      institution: SIST, ShanghaiTech University
-      year: 2021-now
-    - course: BEng in Computer Science
-      institution: SIST, ShanghaiTech University
-      year: 2017-2021
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Undergraduate Students
 ---
 
-<font size=5>**张伟** is a Master student of IE at the BMU in ShanghaiTech university. </font>
+<font size=5>**高聿翀** is a Master student of CS at the BMU in ShanghaiTech university. </font>
