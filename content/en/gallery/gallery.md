@@ -30,4 +30,6 @@ advanced:
 
 {{< gallery album="album">}} 
 
-{{< vimeo 841471386 >}}
+{{< vimeo 841585137 >}}
+
+{{< vimeo 841585597 >}}

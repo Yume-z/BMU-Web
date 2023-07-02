@@ -7,7 +7,7 @@ authors:
   - Chen Hongbo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'chenhb@shanghaitech.edu.cn'
+    link: 'mailto:chenhb@shanghaitech.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
