@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-    - course: MEng in Computer Science
+    - course: M.Eng. in Computer Science
       institution: SIST, ShanghaiTech University
       year: 2021-now
-    - course: BEng in Computer Science
+    - course: B.Eng. in Computer Science
       institution: SIST, ShanghaiTech University
       year: 2017-2021
 
