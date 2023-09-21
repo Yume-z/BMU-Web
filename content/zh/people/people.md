@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 60
 
 title: Meet the Team
 subtitle:
@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     # - Researchers
+    - PhD Students
     - Master Students
     - Administration
     - Visitors
